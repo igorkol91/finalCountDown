@@ -1,0 +1,28 @@
+.h11 {
+    text-align: center;
+}
+
+.levo {
+    display: inline-block;
+    background-color: red;
+}
+
+.desno {
+    float: right;
+}
+
+.mid {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.mid1 {
+    flex-basis: 50%;
+    text-align: right;
+    background-color: blue;
+}
+
+.middesno {
+    background-color: blueviolet;
+}
